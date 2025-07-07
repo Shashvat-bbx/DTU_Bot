@@ -1,0 +1,15 @@
+selenium
+bs4
+requests
+aiohttp 
+aiofiles
+faiss-cpu
+langchain-huggingface
+langchain-community 
+langchain_core
+langchain
+python-doctr[torch,viz]@git+https://github.com/mindee/doctr.git
+huggingface
+sentence-transformers
+streamlit
+dotenv
