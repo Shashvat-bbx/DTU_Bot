@@ -3,6 +3,13 @@
 DTU_Bot is a pipeline for scraping, downloading, parsing, and intelligent querying of official PDF notices, syllabi, and documents from [Delhi Technological University (DTU)](https://www.dtu.ac.in/). It leverages modern Python tools for web scraping, PDF processing, OCR extraction, vector storage, and retrieval-augmented generation (RAG) with LLMs, enabling users to ask natural-language questions about DTU documents and get context-rich, cited answers.
 
 ---
+## Demo
+
+
+https://github.com/user-attachments/assets/d7eea8b6-3856-4f2b-8276-0c6a3c137510
+
+
+
 
 ## Features
 
